@@ -1,11 +1,1 @@
-RADYO
-SEHPA
-DOLAP
-KALEM
-KAVUN
-KÖPEK
-MERAK
-GAZAP
-SEHPA
-ROMAN
-CEVİZ
+radyo,sehpa,dolap,kalem,kavun,kopek,merak,gazap,sehpa,roman,ceviz
